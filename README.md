@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Luis-Vilar , Full Stack Javascript [ Node, React and more ]
-- 👀 I’m interested in JavaScript/TypeScript
+- 👋 Hi, I’m @Luis-Vilar ,Flutter Developer & FullStack Web JS/TS
+- 👀 I’m interested in Flutter
 - 🌱 I’m currently learning Dart and Flutter
-- 💞️ I’m looking to collaborate on backend with Express.Js or Nest.Js
+- 💞️ I’m looking to collaborate on backend with Express.Js or Nest.Js or Flutter Projects
 - 📫 chavetasoft@gmail.com
 - 😄 Pronouns: chaveta
 - ⚡ Fun fact: undefined is not a reserved word in JavaScript
